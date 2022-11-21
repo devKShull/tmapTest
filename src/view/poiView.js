@@ -16,11 +16,8 @@ import { storeDestination } from "../modules/tmapStorage"
 
 /* 
     뒤로가기 방법
-    import { StackActions } from '@react-navigation/native';
-
-    const popAction = StackActions.pop(1);
-
-    navigation.dispatch(popAction);
+    
+    navigation.goBack();
  */
 
 
