@@ -13,6 +13,7 @@
     "axios": "0.26.0",
     "react": "18.1.0",
     "react-native": "0.70.5",
+    "react-native-async-storage": "^0.0.1",
     "react-native-webview": "^11.23.1"
   },
   "devDependencies": {
